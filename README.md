@@ -1,4 +1,4 @@
-# Student Management REST API
+# Student Management REST API🌚
 
 Simple REST API built with Node.js and Express to manage student records using in-memory array/JSON data (no database).
 
